@@ -1,10 +1,14 @@
 _repo: Lincoln-Day-Entertainments-Recitations-Plays-Dialogues-Drills-Tableaux-Pantomimes-Quotations-__48273
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Sindelar, Joseph C.
       gutenberg_agent_id: '42988'
       url: http://www.gutenberg.org/2009/agents/42988
+covers:
+- cover_type: archival
+  image_path: 48273-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48273#Lincoln-Day-Entertainments-Recitations-Plays-Dialogues-Drills-Tableaux-Pantomimes-Quotations-_
 gutenberg_issued: '2015-02-15'
 gutenberg_type: Text
 identifiers:
